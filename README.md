@@ -105,7 +105,8 @@ print(f"Predicted value: {pre}")
 ![Screenshot 2025-04-28 142230](https://github.com/user-attachments/assets/4e3f7c66-71fd-4de9-af0c-11989c72bbbb)
 
 ### Predicted Values
-![Screenshot 2025-04-28 142241](https://github.com/user-attachments/assets/cfbd0a36-69a4-4e8a-b16a-211846953566)
+![image](https://github.com/user-attachments/assets/1ebca913-8110-48bb-bd79-b55c3d26828e)
+
 
 ## Result:
 
